@@ -1,7 +1,7 @@
 ### Hi My name is seoDDong 👋
 <style>
   img {
-    display : inline;
+    display : inline
   }
 </style>
 <img  src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
