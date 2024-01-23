@@ -1,5 +1,6 @@
 ### Hi My name is seoDDong 👋
 <img src="https://simpleicons.org/icons/javascript.svg" width="100">
+<img src="https://simpleicons.org/icons/html5.svg" width="100">
 <!--
 **seo323399/seo323399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
